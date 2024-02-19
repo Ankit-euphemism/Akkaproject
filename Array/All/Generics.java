@@ -54,7 +54,7 @@ public class Generics {
         } catch (Exception e) {
             throw new RuntimeException (e);
         }
-        System.out.println (str + "\nMy rollno. is:- " + v + "\nMy code:- " + c);
-
+        System.out.println ("My Name is:-"+str + "\nMy rollno. is:- " + v + "\nMy code:- " + c);
+      
     }
 }
